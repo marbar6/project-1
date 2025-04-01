@@ -1,0 +1,21 @@
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+.featurette{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+footer{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+.contact-container{
+    margin-top: 20vh;
+}
